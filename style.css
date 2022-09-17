@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+#runAwayButton{
+    position: absolute;
+    white-space: nowrap;
+    background-color: #ffffff;
+    border: none;
+    height: 30vh;
+    width: 30vw;
+}
